@@ -1,0 +1,24 @@
+{
+  "name": "micro-frontend-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "concurrently \"npm run start:main\" \"npm run start:product\" \"npm run start:order\" \"npm run start:delivery\"",
+    "start:main": "cd ./main && npm start",
+    "start:product": "cd ./product && npm start",
+    "start:order": "cd ./order && npm start",
+    "start:delivery": "cd ./delivery && npm start",
+    "start:all": "yarn workspaces run start",
+    "cleanup": "yarn workspaces run cleanup"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Ashok kumar",
+    "email": "ashokgalaxy07@gmail.com"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
