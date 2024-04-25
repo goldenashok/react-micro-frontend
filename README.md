@@ -1,6 +1,6 @@
 # react-micro-frontend
 Micro Frontend application using React and axios
-> Webpack 5 support the micr frontend. webpack 5 available from node 19 version. module Federation is very important for micro frondend application
+> Webpack 5 support the micro frontend. webpack 5 available from node 19 version. `module Federation` Plugin is very important for micro frondend application
 
 #### Installation
 Need to follow below step
