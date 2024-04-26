@@ -4,6 +4,12 @@ Micro Frontend application using React and axios
 ## Creating New Application
 ![image](https://github.com/goldenashok/react-micro-frontend/assets/13637127/3d55aa9b-65c1-4dae-a02e-8e0affb0f2b3)
 
+- Have to follow the same step for below projct
+- Main
+- Product
+- Delivery
+- Order
+  
 #### Install Existing Application
 Need to follow below step
 - Clons the project using below url
