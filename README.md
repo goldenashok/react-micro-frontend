@@ -1,8 +1,10 @@
 # react-micro-frontend
 Micro Frontend application using React and axios
 > Webpack 5 support the micro frontend. webpack 5 available from node 19 version. `module Federation` Plugin is very important for micro frondend application
+## Creating New Application
+![image](https://github.com/goldenashok/react-micro-frontend/assets/13637127/3d55aa9b-65c1-4dae-a02e-8e0affb0f2b3)
 
-#### Installation
+#### Install Existing Application
 Need to follow below step
 - Clons the project using below url
   ```https://github.com/goldenashok/react-micro-frontend.git```
